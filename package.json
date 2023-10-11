@@ -1,0 +1,11 @@
+{
+  "name": "john-kim_ecc-dssb-is24-code-challenge",
+  "version": "1.0.0",
+  "description": "Coding Assginment for BC Gov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Kim",
+  "license": "ISC"
+}
